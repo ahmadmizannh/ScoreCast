@@ -1,0 +1,132 @@
+home_team,away_team,HomeGoals,AwayGoals
+Dinamo Zagreb hr,eng Chelsea,1,0
+Dortmund de,dk FC Copenhagen,3,0
+Celtic sct,es Real Madrid,0,3
+Benfica pt,il Maccabi Haifa,2,0
+RB Salzburg at,it Milan,1,1
+Sevilla es,eng Manchester City,0,4
+RB Leipzig de,ua Shakhtar,1,4
+Paris S-G fr,it Juventus,2,1
+Ajax nl,sct Rangers,4,0
+Eint Frankfurt de,pt Sporting CP,0,3
+Tottenham eng,fr Marseille,2,0
+Napoli it,eng Liverpool,4,1
+Atlético Madrid es,pt Porto,2,1
+Barcelona es,cz Viktoria Plzeň,5,1
+Inter it,de Bayern Munich,0,2
+Club Brugge be,de Leverkusen,1,0
+,,,
+Sporting CP pt,eng Tottenham,2,0
+Viktoria Plzeň cz,it Inter,0,2
+Liverpool eng,nl Ajax,2,1
+Porto pt,be Club Brugge,0,4
+Leverkusen de,es Atlético Madrid,2,0
+Marseille fr,de Eint Frankfurt,0,1
+Bayern Munich de,es Barcelona,2,0
+Milan it,hr Dinamo Zagreb,3,1
+Shakhtar ua,sct Celtic,1,1
+Rangers sct,it Napoli,0,3
+Chelsea eng,at RB Salzburg,1,1
+Manchester City eng,de Dortmund,2,1
+FC Copenhagen dk,es Sevilla,0,0
+Juventus it,pt Benfica,1,2
+Real Madrid es,de RB Leipzig,2,0
+Maccabi Haifa il,fr Paris S-G,1,3
+,,,
+Bayern Munich de,cz Viktoria Plzeň,5,0
+Marseille fr,pt Sporting CP,4,1
+Liverpool eng,sct Rangers,2,0
+Porto pt,de Leverkusen,2,0
+Eint Frankfurt de,eng Tottenham,0,0
+Inter it,es Barcelona,1,0
+Ajax nl,it Napoli,1,6
+Club Brugge be,es Atlético Madrid,2,0
+RB Leipzig de,sct Celtic,3,1
+RB Salzburg at,hr Dinamo Zagreb,1,0
+Chelsea eng,it Milan,3,0
+Benfica pt,fr Paris S-G,1,1
+Manchester City eng,dk FC Copenhagen,5,0
+Real Madrid es,ua Shakhtar,2,1
+Sevilla es,de Dortmund,1,4
+Juventus it,il Maccabi Haifa,3,1
+,,,
+FC Copenhagen dk,eng Manchester City,0,0
+Maccabi Haifa il,it Juventus,2,0
+Celtic sct,de RB Leipzig,0,2
+Dortmund de,es Sevilla,1,1
+Paris S-G fr,pt Benfica,1,1
+Milan it,eng Chelsea,0,2
+Dinamo Zagreb hr,at RB Salzburg,1,1
+Shakhtar ua,es Real Madrid,1,1
+Napoli it,nl Ajax,4,2
+Atlético Madrid es,be Club Brugge,0,0
+Sporting CP pt,fr Marseille,0,2
+Rangers sct,eng Liverpool,1,7
+Tottenham eng,de Eint Frankfurt,3,2
+Viktoria Plzeň cz,de Bayern Munich,2,4
+Leverkusen de,pt Porto,0,3
+Barcelona es,it Inter,3,3
+,,,
+Sevilla es,dk FC Copenhagen,3,0
+RB Salzburg at,eng Chelsea,1,2
+Benfica pt,it Juventus,4,3
+Celtic sct,ua Shakhtar,1,1
+Paris S-G fr,il Maccabi Haifa,7,2
+Dortmund de,eng Manchester City,0,0
+RB Leipzig de,es Real Madrid,3,2
+Dinamo Zagreb hr,it Milan,0,4
+Club Brugge be,pt Porto,0,4
+Inter it,cz Viktoria Plzeň,4,0
+Tottenham eng,pt Sporting CP,1,1
+Eint Frankfurt de,fr Marseille,2,1
+Atlético Madrid es,de Leverkusen,2,2
+Barcelona es,de Bayern Munich,0,3
+Ajax nl,eng Liverpool,0,3
+Napoli it,sct Rangers,3,0
+,,,
+Porto pt,es Atlético Madrid,2,1
+Leverkusen de,be Club Brugge,0,0
+Liverpool eng,it Napoli,2,0
+Rangers sct,nl Ajax,1,3
+Sporting CP pt,de Eint Frankfurt,1,2
+Marseille fr,eng Tottenham,1,2
+Bayern Munich de,it Inter,2,0
+Viktoria Plzeň cz,es Barcelona,2,4
+Real Madrid es,sct Celtic,5,1
+Shakhtar ua,de RB Leipzig,0,4
+Manchester City eng,es Sevilla,3,1
+Chelsea eng,hr Dinamo Zagreb,2,1
+FC Copenhagen dk,de Dortmund,1,1
+Juventus it,fr Paris S-G,1,2
+Milan it,at RB Salzburg,4,0
+Maccabi Haifa il,pt Benfica,1,6
+,,,
+Paris S-G fr,de Bayern Munich,0,1
+Milan it,eng Tottenham,1,0
+Dortmund de,eng Chelsea,1,0
+Club Brugge be,pt Benfica,0,2
+Liverpool eng,es Real Madrid,2,5
+Eint Frankfurt de,it Napoli,0,2
+RB Leipzig de,eng Manchester City,1,1
+Inter it,pt Porto,1,0
+Chelsea eng,de Dortmund,2,0
+Benfica pt,be Club Brugge,5,1
+Tottenham eng,it Milan,0,0
+Bayern Munich de,fr Paris S-G,2,0
+Porto pt,it Inter,0,0
+Manchester City eng,de RB Leipzig,7,0
+Napoli it,de Eint Frankfurt,3,0
+Real Madrid es,eng Liverpool,1,0
+Benfica pt,it Inter,0,2
+Manchester City eng,de Bayern Munich,3,0
+Real Madrid es,eng Chelsea,2,0
+Milan it,it Napoli,1,0
+Chelsea eng,es Real Madrid,0,2
+Napoli it,it Milan,1,1
+Bayern Munich de,eng Manchester City,1,1
+Inter it,pt Benfica,3,3
+Real Madrid es,eng Manchester City,1,1
+Milan it,it Inter,0,2
+Inter it,it Milan,1,0
+Manchester City eng,es Real Madrid,4,0
+Manchester City eng,it Inter,,
